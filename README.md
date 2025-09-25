@@ -8,7 +8,7 @@ uv run fastapi dev main.py
 ```
 
 ### Add dependency
-If you need any other packages, just us `uv` to add them
+If you need any other packages, just use `uv` to add them
 ```bash
 uv add some_other_package
 ```
