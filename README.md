@@ -1,13 +1,16 @@
 ### Install
-Install `uv` and run
-```bash
-uv install
-```
+Install `uv` 
 
 ### Run
-Run the following command at root directory
+Run the following command at root directory (this will also install dependency)
 ```bash
 uv run fastapi dev main.py
+```
+
+### Add dependency
+If you need any other packages, just us `uv` to add them
+```bash
+uv add some_other_package
 ```
 
 ### Useful link
