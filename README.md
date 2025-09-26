@@ -6,7 +6,7 @@
 
 Build a FastAPI service that serves as a simple movie database, with the following requirements:
 
-- Input a movie database CSV file from a URL: TODO LINK
+- Input a movie database CSV from the file `movies.csv`.
 - Support downloading the whole database as a gzipped CSV file.
 - Support query requests by date range and genre.
 - Provide progress updates for long running requests > 2 seconds
