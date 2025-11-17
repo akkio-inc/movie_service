@@ -19,7 +19,7 @@ You should implement endpoints for:
 
 - Submitting the original datafile
 - Downloading the entire dataset
-- Query endpoint for at least date ranges and genres, returning a list of movies
+- Query endpoint for at least date ranges and genre(s), returning a list of movies
 - Endpoint for real-time updates
 
 ### Deliverables
